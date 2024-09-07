@@ -7,7 +7,7 @@ A React component which can parse JSX and output rendered React Components.
 ## Basic Usage - Injecting JSX as a String
 ```javascript
 import React from 'react'
-import JsxParser from 'react-jsx-parser'
+import JsxParser from 'React_jsx_parser'
 import Library from 'some-library-of-components'
 
 class InjectableComponent extends Component {
