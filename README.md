@@ -1,4 +1,4 @@
-# React jsx parser [![Version][npm-version]][npm-link] [![NPM Downloads][npm-downloads]][npm-link] 
+# React jsx parser [![Version][npm-version]] [![NPM Downloads][npm-downloads]] 
 [npm-version]: https://img.shields.io/npm/v/react-jsx-parser.svg
 [npm-downloads]: https://img.shields.io/npm/dt/react-jsx-parser.svg
 
